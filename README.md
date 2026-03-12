@@ -102,7 +102,7 @@ olist-ecommerce-sql-analysis
 │   └── 05_window_functions.sql
 │
 ├── data_cleaning
-│   └── clean_order_reviews.py
+│   └── cleaning_of_order_reviews_table.ipynb
 │
 └── docs
     └── project_questions.md
